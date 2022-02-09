@@ -1,5 +1,4 @@
-# estudo-springdata-jpa
-Aplicação de conceitos do spring data JPA.
+# Estudo Spring data JPA.
 
 <h4>Projeto Lab Digital Innovation One: https://web.dio.me/</h4>
 <h4>Mentoria: Conhecendo Spring Data JPA na prática com Java</h4>
@@ -48,20 +47,17 @@ Aplicação de conceitos do spring data JPA.
     <li>Buscar aluno por cpf</li>
     <li>Atualizar cadastro aluno</li>
     <li>Deletar cadastro aluno</li>
-
     <li>Cadastrar atividade</li>
     <li>Listar todas as atividades</li>
     <li>Buscar atividade por nome</li>
     <li>Buscar atividade por id</li>
     <li>Atualizar atividade</li>
     <li>Deletar atividade</li>
-
     <li>Matricular aluno por atividade</li>
     <li>Listar matrículas</li>
     <li>Buscar matricula por Id</li>
     <li>Deletar matricula</li>
     <li>Listar matriculas por atividade</li>
-
     <li>Cadastrar avaliação física</li>
     <li>Listar todas as avaliações físicas</li>
     <li>Listar avaliações físicas por aluno</li>
@@ -71,14 +67,13 @@ Aplicação de conceitos do spring data JPA.
     <li>Deletar avaliação física por Id</li>
 </dt>
 
+<h3>Métodos Http trabalhados:</h3>
+<p>POST, GET, PUT e DELETE.</p>
 
-<p>Métodos Http trabalhados:</p>
-POST, GET, PUT e DELETE.
+<h3>SpringData JPA:</h3>
+<p>Validações, Relacionamentos, Busca personalizada e Query Nativa.</p>
 
-<p>SpringData JPA:</p>
-Validações, Relacionamentos, Busca personalizada e Query Nativa.
-
-<p>Exceções:</p>
-Exceptions personalizadas e foi feita interceptação de exceptions com o ControllerAdvice.
+<h3>Exceções:</h3>
+<p>Exceptions personalizadas e foi feita interceptação de exceptions com o ControllerAdvice.</p>
 
 
