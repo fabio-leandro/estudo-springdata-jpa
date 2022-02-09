@@ -25,7 +25,7 @@
   <li>config</li>
   <li>controllers</li>
   <li>dtos</li>
-  <li>ntities</li>
+  <li>entities</li>
   <li>exceptions</li>
   <li>repositories</li>
   <li>services</li>
