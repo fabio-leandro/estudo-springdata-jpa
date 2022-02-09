@@ -34,7 +34,7 @@
 <dt>
   Entidades:
   <li>Aluno</li>
-  <li>Matricula</li>
+  <li>Matrícula</li>
   <li>Atividade</li>
   <li>Avaliação Fisica</li>
 </dt>
@@ -48,13 +48,13 @@
 </dt>
 <p></p>
 
-<h3>Métodos Http trabalhados:</h3>
-<p>POST, GET, PUT e DELETE.</p>
+<h4>Métodos Http trabalhados:</h4>
+<p> POST, GET, PUT e DELETE.</p>
 
-<h3>SpringData JPA:</h3>
-<p>Validações, Relacionamentos, Busca personalizada e Query Nativa.</p>
+<h4>SpringData JPA:</h4>
+<p> Validações, Relacionamentos, Busca personalizada e Query Nativa.</p>
 
-<h3>Exceções:</h3>
-<p>Exceptions personalizadas e foi feita interceptação de exceptions com o ControllerAdvice.</p>
+<h4>Exceções:</h4>
+<p> Exceptions personalizadas e foi feita interceptação de exceptions com o ControllerAdvice.</p>
 
 
