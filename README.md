@@ -6,7 +6,7 @@
 <h4>Projeto Referência: https://github.com/cami-la/academia-digital</h4>
 <p></p>
 <dt>
-  <h3>Tecnologias:</h3>
+  <h4>Tecnologias:</h4>
   <li>IDE IntelliJ</li>
   <li>Java 11</li>
   <li>Maven</li>
@@ -21,7 +21,7 @@
 </dt>
 <p></p>
 <dt>
-  Camadas:
+  <h4>Camadas:</h4>
   <li>config</li>
   <li>controllers</li>
   <li>dtos</li>
@@ -32,7 +32,7 @@
 </dt>
 <p></p>
 <dt>
-  Entidades:
+  <h4>Entidades:<h4>
   <li>Aluno</li>
   <li>Matrícula</li>
   <li>Atividade</li>
@@ -40,7 +40,7 @@
 </dt>
 <p></p>
 <dt>
-  Serviços:
+  <h4>Serviços:</h4>
   <li>Cadastrar Aluno, Listar todos alunos, Buscar aluno por Id, Buscar aluno por cpf, Atualizar cadastro aluno, Deletar cadastro aluno;</li>
   <li>Cadastrar atividade, Listar todas as atividades, Buscar atividade por nome, Buscar atividade por id, Atualizar atividade, Deletar atividade;</li>
   <li>Matricular aluno por atividade, Listar matrículas, Buscar matricula por Id, Deletar matricula, Listar matriculas por atividade;</li>
