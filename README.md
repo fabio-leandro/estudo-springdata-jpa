@@ -1,4 +1,4 @@
-# Estudo Spring data JPA.
+# Estudo Spring Data JPA.
 
 <h4>Projeto Lab Digital Innovation One: https://web.dio.me/</h4>
 <h4>Mentoria: Conhecendo Spring Data JPA na prática com Java</h4>
